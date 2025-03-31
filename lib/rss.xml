@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[content]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>content</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 30 Mar 2025 12:41:43 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 30 Mar 2025 12:41:39 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[13 задание (тригонометрия)]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[content]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>content</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 31 Mar 2025 09:44:43 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 31 Mar 2025 09:44:39 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[13 задание (тригонометрия)]]></title><description><![CDATA[ 
  <br><a data-href="Главная страница" href="Главная страница.html" class="internal-link" target="_self" rel="noopener nofollow">Главная страница</a> ❯ <a data-href="Заметки" href="pages/Заметки.html" class="internal-link" target="_self" rel="noopener nofollow">Заметки</a> ❯  <a data-href="Математика" href="pages/Математика.html" class="internal-link" target="_self" rel="noopener nofollow">Математика</a> ❯ <a data-href="ЕГЭ 2025" href="pages/ЕГЭ 2025.html" class="internal-link" target="_self" rel="noopener nofollow">ЕГЭ 2025</a> ❯ <a data-href="13 задание (тригонометрия)" href="pages/13 задание (тригонометрия).html" class="internal-link" target="_self" rel="noopener nofollow">13 задание (тригонометрия)</a><br>Задание 1
 а) Решите уравнение <br>
 б) Найдите все корни этого уравнения, принадлежащие отрезку 
@@ -317,33 +317,37 @@
  <br><a data-href="Главная страница" href="Главная страница.html" class="internal-link" target="_self" rel="noopener nofollow">Главная страница</a> ❯ <a data-href="Заметки" href="pages/Заметки.html" class="internal-link" target="_self" rel="noopener nofollow">Заметки</a> ❯ <a data-href="Физика" href="pages/Физика.html" class="internal-link" target="_self" rel="noopener nofollow">Физика</a><br>Это страница является заготовкой для будущих публикаций
 Рассматривайте это как своего рода анонс.<br>
 Мы работаем над созданием контента ✍🏻
-]]></description><link>pages/Физика.html</link><guid isPermaLink="false">pages/Физика.md</guid><pubDate>Wed, 19 Mar 2025 07:22:18 GMT</pubDate></item><item><title><![CDATA[Artikolo]]></title><description><![CDATA[ 
- ]]></description><link>pages-epo/Artikolo.html</link><guid isPermaLink="false">pages-epo/Artikolo.md</guid><pubDate>Fri, 28 Mar 2025 12:13:04 GMT</pubDate></item><item><title><![CDATA[Ĉefpaĝo]]></title><description><![CDATA[ 
- <br>Bonvenon al mia retejo! 👋<br>
-Mia nomo estas Miĥail. Mi estas matematikinstruisto kaj fizikinstruisto.<br>
-Mi afiŝas artikolojn ĉi tie pri matematiko, fiziko, programado kaj aliaj temoj interesaj por mi.
+]]></description><link>pages/Физика.html</link><guid isPermaLink="false">pages/Физика.md</guid><pubDate>Wed, 19 Mar 2025 07:22:18 GMT</pubDate></item><item><title><![CDATA[Ĉefpaĝo]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="../Главная страница" data-href="../Главная страница" href="Главная страница.html" class="internal-link" target="_self" rel="noopener nofollow">Rusa versio</a><br>
+Bonvenon al mia retejo! 👋<br>
+Mi nomiĝas Miĥail. Mi estas matematikinstruisto kaj fizikinstruisto. Mi publikigas artikolojn pri matematiko, fiziko, programado kaj aliaj temoj, kiuj interesas min.
 <br>
-<br>📝 <a data-href="pages-epo/Artikolo" href="pages-epo/Artikolo.html" class="internal-link" target="_self" rel="noopener nofollow">pages-epo/Artikolo</a>
 <br>👤 <a data-href="Pri mi" href="pages-epo/Pri mi.html" class="internal-link" target="_self" rel="noopener nofollow">Pri mi</a>
 <br>📧 <a data-href="Retrokuplado" href="pages-epo/Retrokuplado.html" class="internal-link" target="_self" rel="noopener nofollow">Retrokuplado</a>
-]]></description><link>pages-epo/Ĉefpaĝo.html</link><guid isPermaLink="false">pages-epo/Ĉefpaĝo.md</guid><pubDate>Sun, 30 Mar 2025 12:00:47 GMT</pubDate></item><item><title><![CDATA[Pri mi]]></title><description><![CDATA[ 
- <br>Mallonga biografio<br>
-Mi naskiĝis la 16-an de septembro 1999 en Dzerĵinsko. Mi okupiĝas pri privata instruado pri matematiko kaj fiziko. Hobioj: nombra grafeo-teorio kaj programado.<br>Образование<br>
-<br>2006 - 2015: МБОУ СОШ № 2, г. Дзержинск
-<br>2015 - 2017: Самарский региональный центр для одарённых детей, г. Самара
-<br>2020 - 2024: ННГУ им. Н. И. Лобачевского, механико-математический факультет, специальность «Математика»
-<br>Деятельность<br>
-<br>2017 - н. в. : репетитор по математике и физике
-<br>2024 - 2025: учитель математики в школе № 7
-<br>2025 - н. в. : учитель математики в образовательном центре «Пеликан»
-]]></description><link>pages-epo/Pri mi.html</link><guid isPermaLink="false">pages-epo/Pri mi.md</guid><pubDate>Fri, 28 Mar 2025 12:14:42 GMT</pubDate></item><item><title><![CDATA[Retrokuplado]]></title><description><![CDATA[ 
- ]]></description><link>pages-epo/Retrokuplado.html</link><guid isPermaLink="false">pages-epo/Retrokuplado.md</guid><pubDate>Fri, 28 Mar 2025 12:13:16 GMT</pubDate></item><item><title><![CDATA[Главная страница]]></title><description><![CDATA[ 
- <br>Эсперанто-версия<br>
-Добро пожаловать на мой сайт! 👋  <br>
+]]></description><link>pages-epo/Ĉefpaĝo.html</link><guid isPermaLink="false">pages-epo/Ĉefpaĝo.md</guid><pubDate>Mon, 31 Mar 2025 09:44:06 GMT</pubDate></item><item><title><![CDATA[Pri mi]]></title><description><![CDATA[ 
+ <br><a data-href="Ĉefpaĝo" href="pages-epo/Ĉefpaĝo.html" class="internal-link" target="_self" rel="noopener nofollow">Ĉefpaĝo</a> ❯ <a data-href="Pri mi" href="pages-epo/Pri mi.html" class="internal-link" target="_self" rel="noopener nofollow">Pri mi</a><br>Mallonga biografio<br>
+Mi naskiĝis la 16-an de septembro 1999 en Dzerĵinsko. Mi donas privatajn lecionojn pri matematiko kaj fiziko.Miaj ŝatokupoj: Enumeracia grafeteorio kaj programado.<br>Edukado<br>
+<br>2006 - 2015: Lernejo № 2, u. Dzerĵinsko
+<br>2015 - 2017: Samara Regiona Centro Por Talentaj Infanoj, u. Samaro
+<br>2020 - 2024: Universitato de Lobaĉevskij, u. Niĵnij Novgorod
+<br>Kariero<br>
+<br>2017 - н. в. : repetitoro de matematiko kaj fiziko
+<br>2024 - 2025: instruisto de matematiko en lernejo № 7
+<br>2025 - н. в. : instruisto de matematiko en edukcentro «Pelikano»
+]]></description><link>pages-epo/Pri mi.html</link><guid isPermaLink="false">pages-epo/Pri mi.md</guid><pubDate>Mon, 31 Mar 2025 09:35:21 GMT</pubDate></item><item><title><![CDATA[Retrokuplado]]></title><description><![CDATA[ 
+ <br>Korespondado
+Se vi volas:
+
+<br>enskribiĝi por lecionoj,
+<br>demandi pri aferoj, kiuj aperas dum legado de la notoj,<br>
+aŭ se vi volas kontakti min pri aliaj demandoj, skribu al <a href="mailto:trubmd@gmail.com" target="_blank" rel="noopener nofollow">mia leterkesto</a>.
+
+]]></description><link>pages-epo/Retrokuplado.html</link><guid isPermaLink="false">pages-epo/Retrokuplado.md</guid><pubDate>Mon, 31 Mar 2025 09:43:01 GMT</pubDate></item><item><title><![CDATA[Главная страница]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="pages-epo/Ĉefpaĝo" data-href="pages-epo/Ĉefpaĝo" href="pages-epo/Ĉefpaĝo.html" class="internal-link" target="_self" rel="noopener nofollow">Esperanto-версия</a><br>Добро пожаловать на мой сайт! 👋  <br>
 Меня зовут Михаил. Я преподаватель математики и физики. Здесь я публикую заметки по математике, физике, программированию и другим интересующим меня темам.
 <br>
 <br>📝 <a data-href="Заметки" href="pages/Заметки.html" class="internal-link" target="_self" rel="noopener nofollow">Заметки</a>
 <br>🎓 <a data-href="Ученикам" href="pages/Ученикам.html" class="internal-link" target="_self" rel="noopener nofollow">Ученикам</a>
 <br>👤 <a data-href="Обо мне" href="pages/Обо мне.html" class="internal-link" target="_self" rel="noopener nofollow">Обо мне</a>
 <br>📧 <a data-href="Обратная связь" href="pages/Обратная связь.html" class="internal-link" target="_self" rel="noopener nofollow">Обратная связь</a>
-]]></description><link>Главная страница.html</link><guid isPermaLink="false">Главная страница.md</guid><pubDate>Fri, 28 Mar 2025 11:49:40 GMT</pubDate></item></channel></rss>
+]]></description><link>Главная страница.html</link><guid isPermaLink="false">Главная страница.md</guid><pubDate>Mon, 31 Mar 2025 08:51:53 GMT</pubDate></item></channel></rss>

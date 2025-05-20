@@ -1,6 +1,6 @@
 {
   "vaultName": "content",
-  "lastExport": 1747726593660,
+  "lastExport": 1747727048260,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": true,
@@ -143,577 +143,577 @@
   ],
   "fileInfo": {
     "images/ris1.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 14825,
       "exportedPath": "images/ris1.svg",
       "dependencies": []
     },
     "images/ris2.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 27346,
       "exportedPath": "images/ris2.svg",
       "dependencies": []
     },
     "latex.html": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 417,
       "exportedPath": "latex.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "images/13-1.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 8621,
       "exportedPath": "images/13-1.svg",
       "dependencies": []
     },
     "images/favicon.png": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 1109,
       "exportedPath": "images/favicon.png",
       "dependencies": []
     },
     "pages/13 задание (тригонометрия).md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 5157,
       "exportedPath": "pages/13 задание (тригонометрия).html",
       "dependencies": []
     },
     "pages/Деление отрезка в заданном отношении.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 4027,
       "exportedPath": "pages/Деление отрезка в заданном отношении.html",
       "dependencies": []
     },
     "pages/ЕГЭ 2025.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 433,
       "exportedPath": "pages/ЕГЭ 2025.html",
       "dependencies": []
     },
     "pages/Координатный метод.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 336,
       "exportedPath": "pages/Координатный метод.html",
       "dependencies": []
     },
     "pages/Почему я стал учителем.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 15603,
       "exportedPath": "pages/Почему я стал учителем.html",
       "dependencies": []
     },
     "images/14-1-1.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 9805,
       "exportedPath": "images/14-1-1.svg",
       "dependencies": []
     },
     "pages/14 задание (стереометрия).md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 3387,
       "exportedPath": "pages/14 задание (стереометрия).html",
       "dependencies": []
     },
     "images/15-2-1.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 8168,
       "exportedPath": "images/15-2-1.svg",
       "dependencies": []
     },
     "images/15-2-2.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 5194,
       "exportedPath": "images/15-2-2.svg",
       "dependencies": []
     },
     "images/15-2-3.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 4874,
       "exportedPath": "images/15-2-3.svg",
       "dependencies": []
     },
     "images/trig-0-1.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 28466,
       "exportedPath": "images/trig-0-1.svg",
       "dependencies": []
     },
     "images/trig-0-1 1.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 28466,
       "exportedPath": "images/trig-0-1 1.svg",
       "dependencies": []
     },
     "images/trig-0-2.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 33666,
       "exportedPath": "images/trig-0-2.svg",
       "dependencies": []
     },
     "images/trig-0-3.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 47405,
       "exportedPath": "images/trig-0-3.svg",
       "dependencies": []
     },
     "pages/15 задание (неравенство).md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 2320,
       "exportedPath": "pages/15 задание (неравенство).html",
       "dependencies": []
     },
     "pages/Введение.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 4288,
       "exportedPath": "pages/Введение.html",
       "dependencies": []
     },
     "pages/Тригонометрия.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 494,
       "exportedPath": "pages/Тригонометрия.html",
       "dependencies": []
     },
     "images/trig-1-1.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 6724,
       "exportedPath": "images/trig-1-1.svg",
       "dependencies": []
     },
     "pages/Радианная мера угла.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 10864,
       "exportedPath": "pages/Радианная мера угла.html",
       "dependencies": []
     },
     "images/trig-2-1.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 6028,
       "exportedPath": "images/trig-2-1.svg",
       "dependencies": []
     },
     "images/trig-2-2.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 6909,
       "exportedPath": "images/trig-2-2.svg",
       "dependencies": []
     },
     "images/trig-2-3.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 9440,
       "exportedPath": "images/trig-2-3.svg",
       "dependencies": []
     },
     "images/trig-2-4.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 13629,
       "exportedPath": "images/trig-2-4.svg",
       "dependencies": []
     },
     "images/trig-2-5.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 8479,
       "exportedPath": "images/trig-2-5.svg",
       "dependencies": []
     },
     "images/trig-2-6.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 13380,
       "exportedPath": "images/trig-2-6.svg",
       "dependencies": []
     },
     "images/trig-2-7.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 11795,
       "exportedPath": "images/trig-2-7.svg",
       "dependencies": []
     },
     "images/trig-2-8.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 14959,
       "exportedPath": "images/trig-2-8.svg",
       "dependencies": []
     },
     "images/trig-2-9.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 96964,
       "exportedPath": "images/trig-2-9.svg",
       "dependencies": []
     },
     "pages/Единичная окружность.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 11111,
       "exportedPath": "pages/Единичная окружность.html",
       "dependencies": []
     },
     "images/trig-3-1.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 7312,
       "exportedPath": "images/trig-3-1.svg",
       "dependencies": []
     },
     "images/trig-3-2.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 7986,
       "exportedPath": "images/trig-3-2.svg",
       "dependencies": []
     },
     "images/trig-3-3.svg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 8297,
       "exportedPath": "images/trig-3-3.svg",
       "dependencies": []
     },
     "pages/Таблица значений тригонометрических функций.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 13937,
       "exportedPath": "pages/Таблица значений тригонометрических функций.html",
       "dependencies": []
     },
     "images/trubmd.jpg": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 43103,
       "exportedPath": "images/trubmd.jpg",
       "dependencies": []
     },
     "pages/Hejmtasko.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 587,
       "exportedPath": "pages/Hejmtasko.html",
       "dependencies": []
     },
     "pages/Programado.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 484,
       "exportedPath": "pages/Programado.html",
       "dependencies": []
     },
     "pages/Математика.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 281,
       "exportedPath": "pages/Математика.html",
       "dependencies": []
     },
     "pages/Материалы.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 226,
       "exportedPath": "pages/Материалы.html",
       "dependencies": []
     },
     "pages/Обо мне.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 1190,
       "exportedPath": "pages/Обо мне.html",
       "dependencies": []
     },
     "pages/Обратная связь.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 592,
       "exportedPath": "pages/Обратная связь.html",
       "dependencies": []
     },
     "pages/Преподавание.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 239,
       "exportedPath": "pages/Преподавание.html",
       "dependencies": []
     },
     "pages/Ученикам.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 172,
       "exportedPath": "pages/Ученикам.html",
       "dependencies": []
     },
     "pages/Физика.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 452,
       "exportedPath": "pages/Физика.html",
       "dependencies": []
     },
     "Персональный сайт Труб М. Д..md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 927,
       "exportedPath": "Персональный сайт Труб М. Д..html",
       "dependencies": []
     },
     "images/Pasted image 20250504184438.png": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 8593,
       "exportedPath": "images/Pasted image 20250504184438.png",
       "dependencies": []
     },
     "pages/Обо мне 1.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 733,
       "exportedPath": "pages/Обо мне 1.html",
       "dependencies": []
     },
     "images/Esperanto_240-animated-flag-gifs.gif": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 1169696,
       "exportedPath": "images/Esperanto_240-animated-flag-gifs.gif",
       "dependencies": []
     },
     "images/Russia_240-animated-flag-gifs.gif": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 863075,
       "exportedPath": "images/Russia_240-animated-flag-gifs.gif",
       "dependencies": []
     },
     "epo/Persona retejo de Trub M.D..md": {
-      "modifiedTime": 1747726593660,
-      "sourceSize": 1336,
+      "modifiedTime": 1747727048260,
+      "sourceSize": 1382,
       "exportedPath": "epo/Persona retejo de Trub M.D..html",
       "dependencies": []
     },
     "epo/Pri mi.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 792,
       "exportedPath": "epo/Pri mi.html",
       "dependencies": []
     },
     "epo/Retrokuplado.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 371,
       "exportedPath": "epo/Retrokuplado.html",
       "dependencies": []
     },
     "epo/Artikolojn.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 106,
       "exportedPath": "epo/Artikolojn.html",
       "dependencies": []
     },
     "epo/La radiana mezuro de la angulo.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 1599,
       "exportedPath": "epo/La radiana mezuro de la angulo.html",
       "dependencies": []
     },
     "epo/Matematiko.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 232,
       "exportedPath": "epo/Matematiko.html",
       "dependencies": []
     },
     "epo/Frakcioj.md": {
-      "modifiedTime": 1747726593660,
+      "modifiedTime": 1747727048260,
       "sourceSize": 577,
       "exportedPath": "epo/Frakcioj.html",
       "dependencies": []

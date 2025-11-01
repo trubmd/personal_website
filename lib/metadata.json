@@ -1,6 +1,6 @@
 {
   "vaultName": "content",
-  "lastExport": 1761859720778,
+  "lastExport": 1761978085399,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon img-adj-list",
   "useCustomHeadContent": true,
@@ -55,6 +55,7 @@
     "pages/exercise-11.md",
     "pages/exercise-12.md",
     "pages/exercise-12-yashchenko-2026.md",
+    "pages/fipi-2026.md",
     "pages/for-students.md",
     "pages/homework.md",
     "pages/math-problems.md",
@@ -145,579 +146,585 @@
   ],
   "fileInfo": {
     "latex.html": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 417,
       "exportedPath": "latex.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "pages/Обратная связь.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 305,
       "exportedPath": "pages/Обратная связь.html",
       "dependencies": []
     },
     "pages/Обо мне.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 997,
       "exportedPath": "pages/Обо мне.html",
       "dependencies": []
     },
     "Пеликан/М5.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 283,
       "exportedPath": "Пеликан/М5.html",
       "dependencies": []
     },
     "Пеликан/М8.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 280,
       "exportedPath": "Пеликан/М8.html",
       "dependencies": []
     },
     "Пеликан/М9-1.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 282,
       "exportedPath": "Пеликан/М9-1.html",
       "dependencies": []
     },
     "Пеликан/М9-2.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 283,
       "exportedPath": "Пеликан/М9-2.html",
       "dependencies": []
     },
     "Пеликан/М11-1.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 400,
       "exportedPath": "Пеликан/М11-1.html",
       "dependencies": []
     },
     "Пеликан/M11-2.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 283,
       "exportedPath": "Пеликан/M11-2.html",
       "dependencies": []
     },
     "pages/Пеликан.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 316,
       "exportedPath": "pages/Пеликан.html",
       "dependencies": []
     },
     "lib/fonts/293fd13dbca5a3e450ef.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 105924,
       "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
       "dependencies": []
     },
     "lib/fonts/085cb93e613ba3d40d2b.woff2": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 112184,
       "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-09-22.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 319413,
       "exportedPath": "Файлы/hw-m9-2025-09-22.pdf",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-09-22.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 294578,
       "exportedPath": "Файлы/hw-m11-2025-09-22.pdf",
       "dependencies": []
     },
     "pages/for-students.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 632,
       "exportedPath": "pages/for-students.html",
       "dependencies": []
     },
     "pages/homework.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 3473,
       "exportedPath": "pages/homework.html",
       "dependencies": []
     },
     "pages/mathematics-materials.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 513,
       "exportedPath": "pages/mathematics-materials.html",
       "dependencies": []
     },
     "pages/notes.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 470,
       "exportedPath": "pages/notes.html",
       "dependencies": []
     },
     "pages/schedule.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 831,
       "exportedPath": "pages/schedule.html",
       "dependencies": []
     },
     "pages/weekly-variants-ege.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1677,
       "exportedPath": "pages/weekly-variants-ege.html",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-09-24.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 700975,
       "exportedPath": "Файлы/hw-m9-2025-09-24.pdf",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-09-24.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 651156,
       "exportedPath": "Файлы/hw-m11-2025-09-24.pdf",
       "dependencies": []
     },
     "Файлы/hw-m5-2025-09-24.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 703480,
       "exportedPath": "Файлы/hw-m5-2025-09-24.pdf",
       "dependencies": []
     },
     "mishatrub.ru.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1041,
       "exportedPath": "mishatrub.ru.html",
       "dependencies": []
     },
     "pages/ОГЭ.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 0,
       "exportedPath": "pages/ОГЭ.html",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-09-29.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 728666,
       "exportedPath": "Файлы/hw-m11-2025-09-29.pdf",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-09-29.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 592809,
       "exportedPath": "Файлы/hw-m9-2025-09-29.pdf",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-10-01.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 713900,
       "exportedPath": "Файлы/hw-m9-2025-10-01.pdf",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-10-01.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 596372,
       "exportedPath": "Файлы/hw-m11-2025-10-01.pdf",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-10-06.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 835171,
       "exportedPath": "Файлы/hw-m9-2025-10-06.pdf",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-10-01 1.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 830631,
       "exportedPath": "Файлы/hw-m11-2025-10-01 1.pdf",
       "dependencies": []
     },
     "Файлы/Вариант М3.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 166513,
       "exportedPath": "Файлы/Вариант М3.pdf",
       "dependencies": []
     },
     "Файлы/Вариант Ф2.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 924998,
       "exportedPath": "Файлы/Вариант Ф2.pdf",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-10-08.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1624975,
       "exportedPath": "Файлы/hw-m9-2025-10-08.pdf",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-10-08.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 649101,
       "exportedPath": "Файлы/hw-m11-2025-10-08.pdf",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-10-13.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1025738,
       "exportedPath": "Файлы/hw-m9-2025-10-13.pdf",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-10-13.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 664903,
       "exportedPath": "Файлы/hw-m11-2025-10-13.pdf",
       "dependencies": []
     },
     "pages/Решение простейших тригонометрических уравнений.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 0,
       "exportedPath": "pages/Решение простейших тригонометрических уравнений.html",
       "dependencies": []
     },
     "Файлы/Вариант М1.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1145084,
       "exportedPath": "Файлы/Вариант М1.pdf",
       "dependencies": []
     },
     "Файлы/Вариант М2.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 496860,
       "exportedPath": "Файлы/Вариант М2.pdf",
       "dependencies": []
     },
     "Файлы/Вариант Ф1.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 797727,
       "exportedPath": "Файлы/Вариант Ф1.pdf",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-10-15.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1508409,
       "exportedPath": "Файлы/hw-m9-2025-10-15.pdf",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-10-15.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1494053,
       "exportedPath": "Файлы/hw-m11-2025-10-15.pdf",
       "dependencies": []
     },
     "Файлы/image.png": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 24879,
       "exportedPath": "Файлы/image.png",
       "dependencies": []
     },
     "Файлы/image-1.png": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 26858,
       "exportedPath": "Файлы/image-1.png",
       "dependencies": []
     },
     "Файлы/image-2.png": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 33808,
       "exportedPath": "Файлы/image-2.png",
       "dependencies": []
     },
     "Файлы/image-3.png": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 33808,
       "exportedPath": "Файлы/image-3.png",
       "dependencies": []
     },
     "Файлы/image-4.png": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 33279,
       "exportedPath": "Файлы/image-4.png",
       "dependencies": []
     },
     "pages/Тренажёр по заданиям.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 171,
       "exportedPath": "pages/Тренажёр по заданиям.html",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-10-20.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 657179,
       "exportedPath": "Файлы/hw-m9-2025-10-20.pdf",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-10-20.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 545928,
       "exportedPath": "Файлы/hw-m11-2025-10-20.pdf",
       "dependencies": []
     },
     "Файлы/Вариант М4.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1873711,
       "exportedPath": "Файлы/Вариант М4.pdf",
       "dependencies": []
     },
     "pages/ege-2026.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 747,
       "exportedPath": "pages/ege-2026.html",
       "dependencies": []
     },
     "pages/exercise-11.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1471,
       "exportedPath": "pages/exercise-11.html",
       "dependencies": []
     },
     "pages/exercise-12.md": {
-      "modifiedTime": 1761859720778,
-      "sourceSize": 886,
+      "modifiedTime": 1761978085399,
+      "sourceSize": 952,
       "exportedPath": "pages/exercise-12.html",
       "dependencies": []
     },
     "pages/Максимум и минимум функции.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 632,
       "exportedPath": "pages/Максимум и минимум функции.html",
       "dependencies": []
     },
     "Файлы/hw-m9-2025-10-22.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 566236,
       "exportedPath": "Файлы/hw-m9-2025-10-22.pdf",
       "dependencies": []
     },
     "Файлы/hw-m11-2025-10-22.pdf": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 1162933,
       "exportedPath": "Файлы/hw-m11-2025-10-22.pdf",
       "dependencies": []
     },
     "pages/exercise-12-yashchenko-2026.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 7558,
       "exportedPath": "pages/exercise-12-yashchenko-2026.html",
       "dependencies": []
     },
     "pages/math-problems.md": {
-      "modifiedTime": 1761859720778,
+      "modifiedTime": 1761978085399,
       "sourceSize": 483,
       "exportedPath": "pages/math-problems.html",
+      "dependencies": []
+    },
+    "pages/fipi-2026.md": {
+      "modifiedTime": 1761978085399,
+      "sourceSize": 3063,
+      "exportedPath": "pages/fipi-2026.html",
       "dependencies": []
     }
   }
